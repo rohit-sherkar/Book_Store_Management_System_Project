@@ -2,17 +2,17 @@
 (Spring Boot,Spring Data JPA(Hibernate),Restful APIs,Apache
 Tomcat Server,MySQL,Thymeleaf)
 
-•Developed a comprehensive bookstore management system
-using Spring Boot and Hibernate, facilitating seamless data flow
-from backend to frontend through RESTful APIs.
+• Developed a comprehensive bookstore management system
+  using Spring Boot and Hibernate, facilitating seamless data flow
+  from backend to frontend through RESTful APIs.
 
-•Implemented RESTful API endpoints to enable efficient
-communication between the server and client, ensuring smooth
-data retrieval and manipulation for inventory, user management,
-and order processing.
+• Implemented RESTful API endpoints to enable efficient
+  communication between the server and client, ensuring smooth
+  data retrieval and manipulation for inventory, user management,
+  and order processing.
 
-•Integrated Thymeleaf for dynamic server-side templating,
-enabling the creation of a user-friendly interface, ensuring a
-smooth and responsive user experience while interacting with
-the application.
+• Integrated Thymeleaf for dynamic server-side templating,
+  enabling the creation of a user-friendly interface, ensuring a
+  smooth and responsive user experience while interacting with
+  the application.
 
